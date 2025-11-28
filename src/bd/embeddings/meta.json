@@ -1,0 +1,8 @@
+{
+  "chunks_path": "chunks.json",
+  "embeddings_path": "embeddings.npy",
+  "n_chunks": 62,
+  "embedding_dim": 384,
+  "source_text_path": "/content/texto.txt",
+  "model_name": "paraphrase-multilingual-MiniLM-L12-v2"
+}
